@@ -1,0 +1,52 @@
+/* Body text */
+body {
+  font-size: 22px;
+  line-height: 1.5;
+  text-decoration: none;
+  background-color: #e5d3b5;
+}
+
+/* Call-to-action container */
+.cta {
+  max-width: 35ch;
+  background-color: #7e4950 ;
+  
+  border-radius: 2rem;
+  
+  cursor: pointer;
+  
+  padding: 1.5rem;
+  margin: auto;
+  margin-top: 3rem;
+}
+
+/* Text color */
+h3, figcaption {
+  color: white;
+}
+
+/* Header font */
+h3 {
+  font-family: 'Urbanist', Helvetica, sans-serif;
+}
+
+/* Paragraph font */
+figcaption {
+  font-family: 'PT Serif', 'Times New Roman', Times, serif
+}
+
+/* Call-to-action hover */
+.cta:hover {
+  background-color: #5d3137;
+}
+
+/* Image */
+img { 
+  width: 100%;
+  border-radius: 2rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
