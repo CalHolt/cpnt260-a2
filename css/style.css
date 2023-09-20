@@ -12,6 +12,8 @@ body {
   background-color: #7e4950 ;
   
   border-radius: 2rem;
+  border-style:ridge;
+  border-color: #3C687D;
   
   cursor: pointer;
   
